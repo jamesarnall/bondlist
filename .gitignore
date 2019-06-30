@@ -1,7 +1,3 @@
 
 # MacOS system files
 .DS_Store
-
-
-# Node.js packages
-node_modules/
